@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi everyone! 💫
+
+My name is Chiara! I'm currently a bachelor student at EPFL in the chemistry and chemical engineering section. I'm going to be starting my first chemical programming project soon 🧪 ⚗️ 🧬. 
+
+How to reach me:
+- email: chiara.bifulco@epfl.ch
 
 <!--
 **chiarabif/chiarabif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
