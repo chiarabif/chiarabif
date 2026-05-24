@@ -1,6 +1,6 @@
 ## Hi everyone! 💫
 
-My name is Chiara! I'm currently a bachelor student at EPFL in the chemistry and chemical engineering section. I'm going to be starting my first chemical programming project soon 🧪 ⚗️ 🧬. 
+My name is Chiara! I'm currently a bachelor student at EPFL in the chemistry and chemical engineering section. I just finished my first chemical programming project 🧪 ⚗️ 🧬. 
 
 How to reach me:
 - email: chiara.bifulco@epfl.ch
